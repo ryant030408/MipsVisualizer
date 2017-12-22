@@ -1,3 +1,4 @@
 # MipsVisualizer
-##mips visualizer and scripter
-A python MIPS simulator
+## MIPS visualizer and scripter 
+
+A python MIPS simulator, WIP 
